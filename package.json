@@ -1,0 +1,16 @@
+{
+  "name": "JuiceFactory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d JuiceFactory"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://zaviesty.github.io/JuiceFactoryandRestaurant",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
