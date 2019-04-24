@@ -777,13 +777,14 @@ color: #FFB03B;
     margin-top: 720px;
     padding-bottom: 0%;
 }
+.menu-title{
+    font-size: 12px;
 }
-@media only screen and (min-width : 480px) {
-    .social{
-        margin-top: 220px;
-    }
-  .footer{
-    margin-top: 120px;
+.menu-restaurant .menu-line{
+    border: white;
+}
+#menu-list .btn{
+    margin:0%;
 }
 }
 
