@@ -717,6 +717,9 @@ color: #FFB03B;
     .menu-restaurant {
     width: 100%;
     }
+    .social{
+        margin-top: 100px;
+    }
     .details-text {
         border:0px;
         border-bottom: 2px solid #A87F41;
@@ -752,7 +755,35 @@ color: #FFB03B;
 .location{
     margin-top: 600px;
 }
-
-
-
 }
+@media  (min-width: 360px) and (max-width: 450px)
+
+{
+ .social{
+        margin-top: 120px;
+    }
+.footer{
+    margin-top: 120px;
+}
+}
+@media only screen and (min-width : 320px) {
+    .social{
+        margin-top: 720px;
+    }
+  .footer{
+    margin-top: 20px;
+}
+.location{
+    margin-top: 720px;
+    padding-bottom: 0%;
+}
+}
+@media only screen and (min-width : 480px) {
+    .social{
+        margin-top: 220px;
+    }
+  .footer{
+    margin-top: 120px;
+}
+}
+
