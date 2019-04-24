@@ -789,6 +789,9 @@ color: #FFB03B;
 .footer p{
     font-size: 12px;
 }
+.menu-subtitle{
+    font-size: 11px;
+}
 }
 @media only screen and (min-width : 250px) {
     .social{
@@ -803,6 +806,9 @@ color: #FFB03B;
 }
 .menu-title{
     font-size: 12px;
+}
+.menu-subtitle{
+    font-size: 11px;
 }
 .menu-restaurant .menu-line{
     border: white;
