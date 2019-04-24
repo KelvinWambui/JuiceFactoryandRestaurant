@@ -790,4 +790,28 @@ color: #FFB03B;
     font-size: 12px;
 }
 }
+@media only screen and (min-width : 250px) {
+    .social{
+        margin-top: 720px;
+    }
+  .footer{
+    margin-top: 20px;
+}
+.location{
+    margin-top: 720px;
+    padding-bottom: 0%;
+}
+.menu-title{
+    font-size: 12px;
+}
+.menu-restaurant .menu-line{
+    border: white;
+}
+#menu-list .btn{
+    margin:0%;
+}
+.footer p{
+    font-size: 12px;
+}
+}
 
